@@ -19,7 +19,7 @@ const Home = () => {
             I specialize in building responsive and dynamic web applications. With a keen eye for detail and a passion for problem-solving, I strive to create efficient and user-friendly digital experiences.
           </p>
            <a
-            href="/Virendra_Patil_Resume.pdf" // The path to your resume file in the public folder
+            href="my-project/public/Virendra_Patil_Resume.pdf" // The path to your resume file in the public folder
             download="Virendra_Patil_Resume.pdf" 
             className="mt-6 inline-block bg-teal-500 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-teal-600 transition-colors"
           >
