@@ -2,9 +2,9 @@ import React from 'react';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A brief description of your first project, highlighting the technologies used and its purpose.',
-    link: '#',
+    title: 'KRISHI MITRA',
+    description: 'A Web platform for the farmers to get the information of farming related knowledge.',
+    link: 'https://krishi-mitra-j3iaxpfb4-virendra-patils-projects-71b17790.vercel.app'
   },
   {
     title: 'Project Two',
