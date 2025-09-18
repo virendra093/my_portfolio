@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import yourPhoto from '../assets/virendra.png'; // Import your image
-import yourResume from 'D:/react/my-project/src/public/Virendra_Patil_Resume.pdf';
+import yourResume from '../public/Virendra_Patil_Resume.pdf';
 
 const Home = () => {
   const professions = [
