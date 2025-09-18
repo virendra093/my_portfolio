@@ -1,12 +1,24 @@
-# React + Vite
+# 🌐 Personal Portfolio - Virendra Patil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **personal portfolio website** built using **React.js** and **TailwindCSS**.  
+It showcases my **skills, projects, problem-solving progress, and contact information** in a responsive and attractive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Home Page**: My introduction with profile photo, name, and rotating profession text.
+- **Skills Section**: A showcase of my technical skills.
+- **Projects Section**: Display of my best projects with details.
+- **Problem Solving Progress**: Track my progress across LeetCode, Codeforces, HackerRank, and GeeksforGeeks with direct profile links.
+- **Contact Section**: A form to contact me via email.
+- **Social Links**: LinkedIn and Instagram accounts linked.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend**: React.js, TailwindCSS
+- **Hosting**: GitHub Pages (or Netlify/Vercel)
+
+---
+
+## 📂 Folder Structure
